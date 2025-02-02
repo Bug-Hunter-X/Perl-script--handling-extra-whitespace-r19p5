@@ -1,0 +1,1 @@
+This repository contains a Perl script that demonstrates a common error when processing input files with inconsistent whitespace. The script attempts to extract data from lines with specific fields, but it breaks when it encounters extra whitespace or different delimiters.  The bug and solution are included to illustrate a good way to address this type of problem.
